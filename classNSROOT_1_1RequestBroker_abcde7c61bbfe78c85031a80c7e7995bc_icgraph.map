@@ -1,0 +1,5 @@
+<map id="NSROOT::RequestBroker::MakeResponseHeader" name="NSROOT::RequestBroker::MakeResponseHeader">
+<area shape="rect" id="node1" title="Create the top header lines for the reply." alt="" coords="197,39,342,81"/>
+<area shape="rect" id="node2" href="$classNSROOT_1_1FileStreamer.html#a3fec833efcf3d594deb5b49ec6966202" title="Handle an incoming request." alt="" coords="10,5,144,48"/>
+<area shape="rect" id="node3" href="$classNSROOT_1_1PulseStreamer.html#a5da2a8e69da9f8f4261610a63a6eb0c1" title="Handle an incoming request." alt="" coords="5,72,149,115"/>
+</map>
